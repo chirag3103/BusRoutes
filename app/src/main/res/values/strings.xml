@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BusRoutes</string>
+    <string name="google_maps_key">your_key_here</string>
+    <string name="google_maps_key_2">your_key_here</string>
+</resources>
